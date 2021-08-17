@@ -1,10 +1,15 @@
-# simple_login_using_firebase
+# Login Application using Firebase
 
-A new Flutter project.
+New Flutter Project.
+In this application User can register and then login with the registered details. I used Firebase as  Database in this App.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+
+https://user-images.githubusercontent.com/83566935/129763771-6997bca6-2371-4fba-8108-f1ae4c18bce3.mp4
+
+
+
+## Flutter Resources
 
 A few resources to get you started if this is your first Flutter project:
 
